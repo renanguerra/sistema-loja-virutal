@@ -1,4 +1,4 @@
-# sistema-loja-virutal
+# sistema-loja-virtual
 Um projeto feito em ReactJs e NodeJs de um sistema de busca e venda de produtos. <br>
 Foi usado Sequelize para trabalhar com SQL junto ao NodeJs. <br>
 
