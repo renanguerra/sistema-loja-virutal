@@ -3,7 +3,6 @@
 Um projeto feito em ReactJs e NodeJs de um sistema de busca e venda de produtos. <br>
 Foi usado Sequelize para trabalhar com SQL junto ao NodeJs 💜 
 
-Vamos desenvolver um app no React Native para trabalhar com Mapas e Geolocalização.
 
 # 💻 Algumas funcionalidades:
 1- CRUD de usuários e produtos <br>
